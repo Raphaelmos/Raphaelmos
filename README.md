@@ -14,3 +14,5 @@ Hi it's Raph here,
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Raphaelmos)
 [![OCaml](https://img.shields.io/badge/ocaml-black?style=for-the-badge&logo=ocaml)](https://github.com/Raphaelmos)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Raphaelmos)
+[![MIPS](https://img.shields.io/badge/mips-black?style=for-the-badge&logo=mips)](https://github.com/Raphaelmos)
+
