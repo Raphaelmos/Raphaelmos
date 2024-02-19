@@ -5,3 +5,12 @@ Hi it's Raph here,
 ![](https://komarev.com/ghpvc/?Raphaelmos=Raphaelmose&color=brightgreen)
 <p align="top-right"> <img src="https://komarev.com/ghpvc/?username=raphaelmos&label=Profile%20views&color=0e75b6&style=flat" alt="Raphaelmos" /> </p>
 
+### Languages knowledge
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Raphaelmos)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Raphaelmos)
+[![Prolog](https://img.shields.io/badge/prolog-black?style=for-the-badge&logo=prolog)](https://github.com/Raphaelmos)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Raphaelmos)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Raphaelmos)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Raphaelmos)
+[![OCaml](https://img.shields.io/badge/ocaml-black?style=for-the-badge&logo=ocaml)](https://github.com/Raphaelmos)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Raphaelmos)
