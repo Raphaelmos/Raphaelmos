@@ -15,4 +15,8 @@ Hi it's Raph here,
 [![OCaml](https://img.shields.io/badge/ocaml-black?style=for-the-badge&logo=ocaml)](https://github.com/Raphaelmos)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Raphaelmos)
 [![MIPS](https://img.shields.io/badge/mips-black?style=for-the-badge&logo=mips)](https://github.com/Raphaelmos)
+[![GDScript](https://img.shields.io/badge/gdscript-black?style=for-the-badge&logo=godot)](https://github.com/Raphaelmos)
+[![Visual Scripting](https://img.shields.io/badge/visualscripting-black?style=for-the-badge&logo=godot)](https://github.com/Raphaelmos)
+
+
 
