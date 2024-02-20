@@ -17,7 +17,7 @@ Hi it's Raph here,
 [![MIPS](https://img.shields.io/badge/mips-black?style=for-the-badge&logo=mips)](https://github.com/Raphaelmos)
 [![GDScript](https://img.shields.io/badge/gdscript-black?style=for-the-badge&logo=godot)](https://github.com/Raphaelmos)
 [![Visual Scripting](https://img.shields.io/badge/visualscripting-black?style=for-the-badge&logo=godot)](https://github.com/Raphaelmos)
-![KOTLIN](https://img.shields.io/badge/_-KOTLIN-A97BFF.svg?style=for-the-badge)
+[![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/Raphaelmos)
 ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)
 [![MAKEFILE](https://img.shields.io/badge/_-MAKEFILE-427819.svg?style=for-the-badge)](https://github.com/Raphaelmos)
 
