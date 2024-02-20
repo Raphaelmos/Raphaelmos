@@ -19,6 +19,6 @@ Hi it's Raph here,
 [![GDScript](https://img.shields.io/badge/gdscript-black?style=for-the-badge&logo=godot)](https://github.com/Raphaelmos)
 [![Visual Scripting](https://img.shields.io/badge/visualscripting-black?style=for-the-badge&logo=godot)](https://github.com/Raphaelmos)
 [![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/Raphaelmos)
-![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)
-[![MAKEFILE](https://img.shields.io/badge/_-MAKEFILE-427819.svg?style=for-the-badge)](https://github.com/Raphaelmos)
+[![Assembly](https://img.shields.io/badge/assembly-black?style=for-the-badge&logo=x86-Assembly)](https://github.com/Raphaelmos)
+[![MAKEFILE](https://img.shields.io/badge/makefile-black?style=for-the-badge&logo=cmake)](https://github.com/Raphaelmos)
 
