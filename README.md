@@ -22,4 +22,6 @@ Hi it's Raph here,
 [![Assembly](https://img.shields.io/badge/assembly-black?style=for-the-badge&logo=x86-Assembly)](https://github.com/Raphaelmos)
 [![MAKEFILE](https://img.shields.io/badge/makefile-black?style=for-the-badge&logo=cmake)](https://github.com/Raphaelmos)
 [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/Raphaelmos)
+[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css)](https://github.com/Raphaelmos)
+
 
