@@ -4,7 +4,7 @@ Hi it's Raph here,
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raphaelmos&theme=chartreuse_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raphaelmos&theme=chartreuse_dark) 
 ![](https://komarev.com/ghpvc/?Raphaelmos=Raphaelmose&color=brightgreen)
-<p align="top-right"> <img src="https://komarev.com/ghpvc/?username=raphaelmos&label=Profile%20views&color=#0eb64f&style=flat" alt="Raphaelmos" /> </p>
+<p align="top-right"> <img src="https://komarev.com/ghpvc/?username=raphaelmos&label=Profile%20views&color=0eb64f&style=flat" alt="Raphaelmos" /> </p>
 
 ### Languages knowledge
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Raphaelmos)
