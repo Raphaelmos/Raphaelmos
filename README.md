@@ -1,4 +1,4 @@
-Hi it's Raph here, 
+Hi it's Raph here, Currently looking for a job in IT and can work 12 hours a day.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raphaelmos&theme=chartreuse_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raphaelmos&theme=chartreuse_dark) 
