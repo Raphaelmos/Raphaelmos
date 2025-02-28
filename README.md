@@ -23,6 +23,7 @@ Hi it's Raph here, Currently looking for a job in IT, you can check my resume an
 [![MAKEFILE](https://img.shields.io/badge/makefile-black?style=for-the-badge&logo=cmake)](https://github.com/Raphaelmos)
 [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/Raphaelmos)
 [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css)](https://github.com/Raphaelmos)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=PHP)](https://github.com/Raphaelmos)
 [![OpenGL](https://img.shields.io/badge/OpenGL-black?style=for-the-badge&logo=OpenGL)](https://github.com/Raphaelmos)
 
 
